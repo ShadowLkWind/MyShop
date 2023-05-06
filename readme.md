@@ -1,4 +1,4 @@
-Python Flask订餐系统
+Python Flask商店小程序
 =====================
 ##启动
 * export ops_config=local|production && python manage.py runserver
